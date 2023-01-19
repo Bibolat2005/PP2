@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../pp1"
+		},
+		{
+			"path": "../../../bibolat"
+		},
+		{
+			"path": "../../../../../../newpy"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}

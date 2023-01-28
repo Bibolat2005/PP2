@@ -1,0 +1,5 @@
+a = int(input())
+b = int(input())
+L = int(input())
+N = int(input())
+print((2*L+a)+2*(N-1)*(a+b))

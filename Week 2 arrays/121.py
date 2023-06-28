@@ -18,8 +18,8 @@ print(x)
 
 
 cars = ["Ford", "Volvo", "BMW"]
-for x in cars:
-  print(x)
+for h in cars:
+  print(h)
 
 
 cars = ["Ford", "Volvo", "BMW"]
